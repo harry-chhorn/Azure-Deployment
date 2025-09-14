@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/Azure-Deployment/Azure-Deployment.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/Azure-Deployment/Deployment/Azure-Deployment.csproj",
       "projectName": "Azure-Deployment",
-      "projectPath": "/Users/mac/Desktop/Azure-Deployment/Azure-Deployment.csproj",
+      "projectPath": "/Users/mac/Desktop/Azure-Deployment/Deployment/Azure-Deployment.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Desktop/Azure-Deployment/obj/",
+      "outputPath": "/Users/mac/Desktop/Azure-Deployment/Deployment/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"
